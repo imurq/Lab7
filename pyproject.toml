@@ -21,6 +21,7 @@ dependencies = [
     "pyjwt",
     "python-jose",
     "pytest-asyncio",
+    "psycopg2-binary",
     "pytest",
     "ruff",
     "sqlmodel",
